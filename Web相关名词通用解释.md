@@ -1,5 +1,6 @@
 ## Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.NET、Web Services 是什么？
 > 文中内容总结来自于知乎，链接：[https://www.zhihu.com/question/22689579](https://www.zhihu.com/question/22689579)
+
 ### 1. 在浏览器地址栏输入地址的访问过程
 浏览器和服务器交流，服务器和数据库交流。
 ### 2. HTML:超文本标记语言
