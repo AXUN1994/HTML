@@ -25,5 +25,9 @@ ctrl+k:选中之后跳过
 7.　ctrl+shift+':选择标签
 
 8.　ctrl+l:选中一行；ctrl+shift+向上/向下:向上或向下移动该行
+
 9.  ctrl+shift+回车:上一行添加内容
+
 10. ctrl+shift+v:粘贴时保持缩进
+
+11. ctrl+p:快速跳转__行/文件名/文件路径/#标签名（在html文件中）/@class名（在css文件中）/@函数名（在js文件中）
