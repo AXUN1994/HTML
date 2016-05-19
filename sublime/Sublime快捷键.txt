@@ -1,4 +1,4 @@
-1.alt+shift+数字：分栏
+#### 1. alt+shift+数字：分栏
   ctrl+shift+数字:将光标所在的文件移动到栏数字
   ctrl+数字：定位到栏数字
 2.ctrl+k+b:打开或关闭侧边栏
