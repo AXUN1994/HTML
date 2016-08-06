@@ -31,3 +31,10 @@ ctrl+shift+回车:上一行添加内容
 5.使用标签包裹一行：先选中想要被标签包裹的内容，然后alt+shift+w,然最后输入你想要的标签
 
 6.ctrl+p:快速跳转__行/文件名/文件路径/#标签名（在html文件中）/@class名（在css文件中）/@函数名（在js文件中）
+
+7. 设置跳出右括号方法。（Enter）
+‘{ "keys": ["enter"], "command": "move", "args": {"by": "characters", "forward": true}, "context":  
+    [  
+        { "key": "following_text", "operator": "regex_contains", "operand": "^[)\\]\\>\\'\\\"]", "match_all": true },  
+    ]     
+  }’
