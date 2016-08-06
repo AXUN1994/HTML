@@ -34,8 +34,10 @@ ctrl+shift+回车:上一行添加内容
 
 7.设置跳出右括号方法。（Enter）
 
-<code>{ "keys": ["enter"], "command": "move", "args": {"by": "characters", "forward": true}, "context":    </br> 
-    [      </br> 
-        { "key": "following_text", "operator": "regex_contains", "operand": "^[)\\]\\>\\'\\\"]", "match_all": true },      </br> 
-    ]      </br>    
+<code>{ "keys": ["enter"], "command": "move", "args": {"by": "characters", "forward": true}, "context":  
+
+    [
+        { "key": "following_text", "operator": "regex_contains", "operand": "^[)\\]\\>\\'\\\"]", "match_all": true }, 
+    ]  
+    
   }'</code>
